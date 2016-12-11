@@ -9,7 +9,7 @@
     "geom:bbox":"-77.18711,39.12941,-76.77845,39.436208",
     "geom:latitude":39.306421,
     "geom:longitude":-76.993961,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":478813522.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Legislative Subdistrict 9A",
     "uscensus:sldlst":"09A",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486887,
     "wof:geomhash":"1628a3ca72c4639a2b6c38e54c779fc1",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766667,
     "wof:lastmodified":1481486887,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

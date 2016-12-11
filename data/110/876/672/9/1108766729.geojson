@@ -9,7 +9,7 @@
     "geom:bbox":"-77.00244,38.89964,-76.8585,38.97565",
     "geom:latitude":38.935308,
     "geom:longitude":-76.92675,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":36250354.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Legislative Subdistrict 47A",
     "uscensus:sldlst":"47A",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486903,
     "wof:geomhash":"e6878e82ffbf866e1337f2e991a60f0e",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766729,
     "wof:lastmodified":1481486903,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

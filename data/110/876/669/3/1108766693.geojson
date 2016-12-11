@@ -9,7 +9,7 @@
     "geom:bbox":"-76.7144,38.71274,-76.48955,38.952546",
     "geom:latitude":38.827403,
     "geom:longitude":-76.599186,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":275144947.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Legislative Subdistrict 30B",
     "uscensus:sldlst":"30B",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486892,
     "wof:geomhash":"6ae6d0621e5273b1ade53cb3f7201077",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766693,
     "wof:lastmodified":1481486892,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

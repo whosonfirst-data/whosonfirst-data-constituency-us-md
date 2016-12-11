@@ -9,7 +9,7 @@
     "geom:bbox":"-77.01152,38.38917,-76.45429,38.775861",
     "geom:latitude":38.619193,
     "geom:longitude":-76.693656,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":935922450.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 27",
     "uscensus:sldust":"027",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486938,
     "wof:geomhash":"79d47dfdbf158f48aea2fbeaa6b4e839",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766793,
     "wof:lastmodified":1481486938,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-76.35568,39.27438,-76.0603,39.580525",
     "geom:latitude":39.44623,
     "geom:longitude":-76.204036,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":281096014.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Legislative Subdistrict 34A",
     "uscensus:sldlst":"34A",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486893,
     "wof:geomhash":"163c08c00f5491ca69ffbed42e763403",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766699,
     "wof:lastmodified":1481486893,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

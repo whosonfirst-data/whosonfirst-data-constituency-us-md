@@ -9,7 +9,7 @@
     "geom:bbox":"-76.98003,39.103142,-76.7201,39.23985",
     "geom:latitude":39.171681,
     "geom:longitude":-76.848051,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":155636024.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 13",
     "uscensus:sldust":"013",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486934,
     "wof:geomhash":"6f0fa20f339db872f26fc0460bb1de5b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766761,
     "wof:lastmodified":1481486934,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

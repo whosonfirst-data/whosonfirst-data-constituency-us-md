@@ -9,7 +9,7 @@
     "geom:bbox":"-77.31156,39.385376,-76.7871,39.720802",
     "geom:latitude":39.589688,
     "geom:longitude":-77.019959,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":999198068.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 5",
     "uscensus:sldust":"005",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486931,
     "wof:geomhash":"63d16e6a7f8cab299ebb78aaebb931a2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766743,
     "wof:lastmodified":1481486931,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

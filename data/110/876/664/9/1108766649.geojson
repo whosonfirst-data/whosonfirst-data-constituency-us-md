@@ -9,7 +9,7 @@
     "geom:bbox":"-77.30792,39.11623,-77.15058,39.251419",
     "geom:latitude":39.178484,
     "geom:longitude":-77.230173,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":78942978.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Legislative District 39",
     "uscensus:sldlst":"039",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486885,
     "wof:geomhash":"4c2eef867d01ed1cedf95e980ff4f978",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766649,
     "wof:lastmodified":1481486885,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-76.81537,39.354383,-76.60136,39.49578",
     "geom:latitude":39.424472,
     "geom:longitude":-76.711692,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":165849694.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Legislative District 11",
     "uscensus:sldlst":"011",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486876,
     "wof:geomhash":"bba4fac8a1843ea12a8c7d6eae59b47f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766595,
     "wof:lastmodified":1481486876,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

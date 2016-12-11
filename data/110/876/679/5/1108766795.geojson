@@ -9,7 +9,7 @@
     "geom:bbox":"-77.27417,38.254588,-76.7745,38.690168",
     "geom:latitude":38.50023,
     "geom:longitude":-77.012308,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1070903210.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 28",
     "uscensus:sldust":"028",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486939,
     "wof:geomhash":"dd286903635f090b82394c8444b2e39f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766795,
     "wof:lastmodified":1481486939,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

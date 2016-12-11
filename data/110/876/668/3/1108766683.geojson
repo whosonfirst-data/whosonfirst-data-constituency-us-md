@@ -9,7 +9,7 @@
     "geom:bbox":"-76.87183,38.207239,-76.53305,38.51375",
     "geom:latitude":38.371957,
     "geom:longitude":-76.718543,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":489217615.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Legislative Subdistrict 29A",
     "uscensus:sldlst":"29A",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486890,
     "wof:geomhash":"d38b0cbfcf2af3f1df7979a9fe051198",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766683,
     "wof:lastmodified":1481486890,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

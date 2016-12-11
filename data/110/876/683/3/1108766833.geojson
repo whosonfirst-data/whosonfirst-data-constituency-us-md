@@ -9,7 +9,7 @@
     "geom:bbox":"-76.62328,39.293968,-76.52945,39.372206",
     "geom:latitude":39.327233,
     "geom:longitude":-76.561397,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":35266022.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 45",
     "uscensus:sldust":"045",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486960,
     "wof:geomhash":"1d257bc860631f35cd5f4bda7bd76f96",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766833,
     "wof:lastmodified":1481486960,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

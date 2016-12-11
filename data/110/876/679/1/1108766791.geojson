@@ -9,7 +9,7 @@
     "geom:bbox":"-77.07703,38.616171,-76.88942,38.85491",
     "geom:latitude":38.744077,
     "geom:longitude":-76.98685,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":160109990.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 26",
     "uscensus:sldust":"026",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486937,
     "wof:geomhash":"f968faa4ceb97c993fd241389d98840f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766791,
     "wof:lastmodified":1481486937,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],

@@ -9,7 +9,7 @@
     "geom:bbox":"-76.84036,39.084213,-76.58975,39.231167",
     "geom:latitude":39.149778,
     "geom:longitude":-76.703002,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":157196955.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Legislative District 32",
     "uscensus:sldlst":"032",
     "uscensus:statefp":"24",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688501
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481486883,
     "wof:geomhash":"3311372460b6788eb5ff2c0a01dfc0ae",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688501
+        }
+    ],
     "wof:id":1108766643,
     "wof:lastmodified":1481486883,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688501,
     "wof:repo":"whosonfirst-data-constituency-us-md",
     "wof:superseded_by":[],
     "wof:supersedes":[],
